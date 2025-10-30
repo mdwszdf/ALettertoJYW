@@ -4,7 +4,7 @@ let box = document.querySelector('#box')
 heart.addEventListener('click',function(){
     card.setAttribute("style","opacity:0");
     let x = document.createElement("audio");
-     x.setAttribute("src", "http://cv-senior-engineer.gitee.io/pleasantly-surprised/images/qlx.mp3");
+     x.setAttribute("src", "https://mdwszdf.github.io/ALettertoJYW/qlx.mp3");
      x.setAttribute("autoplay","autoplay");
 
 // 打字效果
@@ -43,4 +43,5 @@ box.style.opacity=1
 appearBackground()
 
 })
+
 
